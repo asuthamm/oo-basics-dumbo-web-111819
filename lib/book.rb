@@ -12,3 +12,4 @@ class Book
 end
 .author
 .page_count
+.genre
